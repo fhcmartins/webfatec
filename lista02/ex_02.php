@@ -13,6 +13,8 @@
     <div>
         <?php
 
+        echo "Tipo de Triângulo <br><br>";
+
             //Recebendo os valores do formulário
             $ladoA = $_POST["A"];
             $ladoB = $_POST["B"];
