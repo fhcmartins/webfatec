@@ -1,0 +1,27 @@
+html {
+    font: 15pt Arial;
+}
+
+body {
+    background: url("../_img/wallpaper-dartvader.jpg") no-repeat top center fixed;
+}
+
+div::before {
+    content: "AULA DE PHP - ELETIVA PROGRAMAÇÃO WEB";
+    font: 10pt Arial;
+    color: #ffffff;
+    background-color: #273747;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+    left: -20px;
+    width: 560px;
+}
+
+div {
+    background-color: rgba(255, 255, 255, .75);
+    margin: 100px auto 100px auto;
+    width: 560px;
+    height: 300px;
+    padding: 10px;
+}
