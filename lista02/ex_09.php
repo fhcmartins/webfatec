@@ -13,7 +13,17 @@
         <br><br><br>
         <?php
 
-            
+            $massMat = 1;
+            $cont = 0;
+
+            while ($massMat > 0.1) {
+                $massMat = $massMat * 0.75;
+                $cont++;
+            }
+
+            $res = $cont * 0.5;
+
+            echo "São necessários $res minutos para reduzir a massa do materia a um nível menor de 10%."
 
         ?>
 

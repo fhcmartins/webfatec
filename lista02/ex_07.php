@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="_css/estilo_ex_02.css">
+    <link rel="stylesheet" href="_css/estilo.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resposta Exercício 07</title>
 </head>
@@ -12,6 +12,7 @@
 
     <div>
 
+        <br><br><br>
         <?php
 
             $valor01 = $_POST["num01"];
