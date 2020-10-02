@@ -23,7 +23,7 @@
 
             $res = $cont * 0.5;
 
-            echo "São necessários $res minutos para reduzir a massa do materia a um nível menor de 10%."
+            echo "São necessários $res minutos para reduzir a massa do material a um nível menor de 10%."
 
         ?>
 
