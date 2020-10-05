@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="_css/estilo.css">
+    <link rel="stylesheet" href="_css/estilo_ex_02.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resposta Exercício 07</title>
 </head>
