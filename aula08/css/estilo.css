@@ -1,0 +1,17 @@
+html {
+    font: 15pt Arial;
+}
+
+body {
+    background: url("../_img/wallpaper.jpg") no-repeat top center fixed;
+}
+
+div {
+    background-color: rgba(255, 255, 255, .75);
+    text-align: center;
+    margin: 100px auto 100px auto;
+    width: 560px;
+    height: 200px;
+    padding: 10px;
+    align-items: center;
+}
